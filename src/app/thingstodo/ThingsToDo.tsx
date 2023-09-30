@@ -41,7 +41,7 @@ export default function ThingsToDo()
         </Select>
       </FormControl>
       <Button type="submit" variant="contained" color="primary">
-        Submit;
+        Submi
       </Button>
     </form>
         </main>
